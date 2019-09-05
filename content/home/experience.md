@@ -27,18 +27,19 @@ date_format = "Jan 2006"
   description = """
   Responsibilities include:
   
-  * Analysing
-  * Modelling
-  * Deploying
+  * Consultancy
+  * Marketing
+  * Sourcing
+  * Programming & Web development
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
+  title = "British Council Certified Consultant"
+  company = "Zain Global"
   company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  location = "Chittagong"
+  date_start = "2017-01-01"
+  date_end = "Present"
+  description = """Taught Marketing, computing & Market research in education sector."""
 
 +++
